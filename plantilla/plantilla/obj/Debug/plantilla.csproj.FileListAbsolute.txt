@@ -1,0 +1,15 @@
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\bin\Debug\plantilla.exe.config
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\bin\Debug\plantilla.exe
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\bin\Debug\plantilla.pdb
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla.csprojAssemblyReference.cache
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\MainWindow.g.cs
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\App.g.cs
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla_MarkupCompile.cache
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla_MarkupCompile.lref
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\MainWindow.baml
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla.g.resources
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla.Properties.Resources.resources
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla.csproj.GenerateResource.cache
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla.csproj.CoreCompileInputs.cache
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla.exe
+C:\Users\cvallejos\Documents\Visual Studio 2019\Mercadeo\plantilla\plantilla\obj\Debug\plantilla.pdb
